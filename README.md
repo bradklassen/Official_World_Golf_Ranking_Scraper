@@ -74,10 +74,6 @@ Simply put, a golfer's World Ranking is obtained by dividing their points total 
 
 **Scraping Programs:**
 
-- OWGR_Current_Ranking.py
-
-   - Official World Golf Ranking current rankings.
-
 - OWGR_Player.py
 
    - Tournament performance of every player that has been ranked by the Official World Golf Ranking.
